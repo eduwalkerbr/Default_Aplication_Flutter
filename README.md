@@ -1,10 +1,14 @@
-# teste
+# Default Apliccation Flutter
 
-A new Flutter project.
+Um novo projeto padrão do **Flutter**.
+
+## Funcionalidades
+
+A aplicação contém estrutura padrão de *cabecalho*, *conteúdo* e *rodapé*. Além disso, apresente a funcionalidade permitir utilizar um botão para somar um valor que será exibido na tela.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a **Flutter** application.
 
 A few resources to get you started if this is your first Flutter project:
 
