@@ -8,7 +8,7 @@ A aplicação contém estrutura padrão de *cabecalho*, *conteúdo* e *rodapé*.
 
 ## Tecnologias Utilizadas
 
-![Logo do Flutter](img/flutter.jpg)
+![Logo do Flutter](lib/img/flutter.jpg)
 
 * Flutter
 * Dart
